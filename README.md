@@ -4,7 +4,7 @@ This library is not interested in telling you what type of device this User Agen
 
 It's simply looking for name/version groups to derive "identities".
 
-In the event that no identity can be discerned it will return an identity of "garbage" with a Major Version of 1.0
+In the event that no identity can be discerned it will return an identity of `garbage` with a Major Version of `1`
 
 This is best illustrated with an example : 
 
