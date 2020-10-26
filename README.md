@@ -17,9 +17,11 @@ Browser b = Browser.Parse ("Mozilla/5.0 (Windows NT 10.0; WOW64; rv:77.0) Gecko/
 ```
 
 This will present multiple identities - 
+```
 Name - firefox, Major Version - 77, Minor Version - 0
 Name - mozilla, Major Version - 5, Minor Version - 0
 Name - rv, Major Version - 77, Minor Version - 0
+```
 
 Typical usage to filter out older versions of Chrome might look like this : 
 
